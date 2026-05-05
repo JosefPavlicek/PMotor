@@ -1,1 +1,1 @@
-Projekt prto yobrayovani tociveho mometntu motoru
+Projekt pro zobrazovani tociveho momentu motoru
